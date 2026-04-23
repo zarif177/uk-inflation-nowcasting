@@ -32,13 +32,8 @@ A monthly Narrative Inflation Index is constructed by applying FinBERT to 140 Ba
 ```
 .
 ├── README.md                         — this file
-├── LICENSE                           — MIT Licence
 ├── requirements.txt                  — Python dependencies
 ├── .gitignore
-│
-├── dissertation/
-│   └── Khan_UK_Inflation_Nowcasting_Dissertation.docx
-│
 ├── data/
 │   └── dataset_9variables.csv        — monthly dataset, January 2010 to December 2024
 │
@@ -66,7 +61,7 @@ A monthly Narrative Inflation Index is constructed by applying FinBERT to 140 Ba
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/uk-inflation-nowcasting.git
+git clone https://github.com/zarif177/uk-inflation-nowcasting.git
 cd uk-inflation-nowcasting
 ```
 
@@ -131,9 +126,6 @@ A Comparison of the New Keynesian Phillips Curve and Vector Autoregression Model
 BSc Economics dissertation, University of Bath.
 ```
 
-## Licence
-
-MIT Licence. See `LICENSE` for details.
 
 ## Contact
 
